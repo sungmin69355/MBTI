@@ -1,4 +1,4 @@
-package com.mbti.core.controller;
+package com.mbti.core.controller.v1;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
